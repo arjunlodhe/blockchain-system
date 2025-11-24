@@ -1,0 +1,38 @@
+/* src/App.css */
+.App {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.table th {
+  border-top: none;
+}
+
+.card {
+  border: none;
+  border-radius: 0.5rem;
+}
+
+.modal-content {
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+.modal-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 15px 15px 0 0;
+}
+
+.table th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+}
+
+.card-header {
+  font-weight: 600;
+}
+
+.alert {
+  border-radius: 10px;
+}
